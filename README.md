@@ -1,15 +1,6 @@
 # Demo Git Repo
 This is my first file in the repo.
 
-##IPSUM Below
+##Website Contents 
 
-lksdfhkjasdghncawjfhqwhfkajdfhakljdf hasdlfasdfjhasdfkhasdf
-asdfkjahdfkjhasjkldfhlkasdfasdfasdfasdf
-wo8eryqowiencyqwoefyoqw jef
-
-lksdfhkjasdghncawjfhqwhfkajdfhakljdf hasdlfasdfjhasdfkhasdf
-asdfkjahdfkjhasjkldfhlkasdfasdfasdfasdf
-wo8eryqowiencyqwoefyoqw jef
-lksdfhkjasdghncawjfhqwhfkajdfhakljdf hasdlfasdfjhasdfkhasdf
-asdfkjahdfkjhasjkldfhlkasdfasdfasdfasdf
-wo8eryqowiencyqwoefyoqw jef
+1. index.html
